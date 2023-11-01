@@ -34,9 +34,6 @@ This script is designed to work specifically with the Microsoft Edge Browser. En
 3. Dependencies:
 Ensure you have all the necessary modules installed. You can typically install these using pip:
 
-bash
-Copy code
-pip install [module-name]
 4. File Paths:
 Sound Files:
 Two sound files are loaded during the execution:
