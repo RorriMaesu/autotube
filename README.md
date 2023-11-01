@@ -53,3 +53,7 @@ Ensure that you monitor the automation, especially during the first run or after
 
 To see an example of what this app can do, checkout my latest video on Youtube which was made using this tool!
 https://www.youtube.com/watch?v=iQCdXFbqPLI&t=43s
+
+
+For video instructions see this video:
+https://www.youtube.com/watch?v=V8KYTk_u44I
