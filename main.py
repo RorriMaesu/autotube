@@ -35,15 +35,13 @@ config.animated_counter = 0
 def main():
     try:
         # Run the initial script; needs clarification
-        auto_ideogram.auto_ideogram_script()
+        # auto_ideogram.auto_ideogram_script()
         
         # Initialize Tkinter window manager; replace if using another GUI library
         tkinter_manager = TkinterManager()
-        
-        # Get user input for item count; clarify source
+
         user_input = auto_ideogram.item_count
         
-        # Switch download folders; reason unknown
         browser_utils.switch_download_folders()
         
         # Flag for first upload; consider using a boolean
@@ -54,12 +52,13 @@ def main():
         
         # Initialize and start the download manager
         download_manager = download_utils.DownloadManager(user_input)
-        # time.sleep(3)
+        time.sleep(3)
         download_manager.download_phase()
         
         # Pause for 2 seconds; reason for the user to read the console.
         time.sleep(2)
         
+
         # Run video editor utility; clarify what it edits
         video_editor_utils.run_video_editor_utility()
         
