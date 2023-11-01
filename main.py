@@ -35,7 +35,7 @@ config.animated_counter = 0
 def main():
     try:
         # Run the initial script; needs clarification
-        # auto_ideogram.auto_ideogram_script()
+        auto_ideogram.auto_ideogram_script()
         
         # Initialize Tkinter window manager; replace if using another GUI library
         tkinter_manager = TkinterManager()
