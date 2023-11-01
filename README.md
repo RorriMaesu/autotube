@@ -50,3 +50,6 @@ The script is modular, allowing for customization and integration of additional 
 
 Notes:
 Ensure that you monitor the automation, especially during the first run or after significant system updates. Automation scripts, while powerful, can be sensitive to changes in the environment.
+
+To see an example of what this app can do, checkout my latest video on Youtube which was made using this tool!
+https://www.youtube.com/watch?v=iQCdXFbqPLI&t=43s
